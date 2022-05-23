@@ -10,7 +10,7 @@ Check out, then run:
 git submodule update --init --recursive
 ```
 
-Make sure it builds using 
+Make sure it builds using:
 
 ```shell
 idf.py build
